@@ -1,0 +1,3 @@
+Ejercicio1 = Mayor, menor, suma y promedio de un numero determinado de datos.
+Ejercicio2 = Arrays - Calcular el mayor, la posición introducida, el menor, la posición introducida, la suma y el promedio de los datos almacenados en un vector de forma aleatoria.
+Ejercicio3 = Serie de Fibonacci en un array.
